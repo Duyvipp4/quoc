@@ -1,1 +1,1 @@
-# tool-ddos-by-quoc
+# ddos-by-quoc
